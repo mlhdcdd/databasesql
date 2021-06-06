@@ -1,0 +1,7 @@
+.idea
+.idea/datasources.xml
+.idea/workspace.xml
+./src/test/token.txt
+*.exe
+*.local
+*~
